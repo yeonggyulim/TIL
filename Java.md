@@ -19,3 +19,18 @@
     - 자바 스택 영역: 자바 프로그램 수행하면서 발생하는 메소드 호출과 복귀에 대한 정보 생성 저장 관리
     - 힙 영역: 객체 생성 시 동적 공간 할당 객체 저장 공간. 가비지 컬렉션 기능으로 사용 끝난 객체 공간 관리되는 공간
     - 네이티브 메소드 스택 영역(Java Native Interface): 하드웨어 제어해야 할 경우 C언어와 같은 다른 언어의 기능 잠시 빌림. 네이티브 메소드 바이트 코드 변환되면서 사용하고 기록하는 영역
+
+# Java의 데이터 타입
+
+## 1. Java Data Type
+- Primitive Type(기본 타입)
+  - Numerica Type(수치 타입)
+    - Integer Type(정수 타입): byte, short, int, long, char
+    - Floating Point Type(부동소수점 타입): float, double
+  - Boolean Type(불리언 타입): boolean
+- Reference Type(참조 타입)
+  - Array Type(배열 타입)
+  - Class Type(클래스 타입)
+  - Interface Type(인터페이스 타입)
+  - Enum Type(열거 타입)
+ 
